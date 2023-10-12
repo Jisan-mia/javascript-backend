@@ -1,4 +1,4 @@
-const players = require('./exercises/players');
+const players = require('./core-modules/players');
 
 console.log(players.players);
 console.log(players.captain);
