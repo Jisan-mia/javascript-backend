@@ -17,6 +17,7 @@
   "author": "Jisan Mia <jisanmia47@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^20.8.4"
+    "@types/node": "^20.8.4",
+    "nodemon": "^3.0.1"
   }
 }
