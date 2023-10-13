@@ -12,6 +12,8 @@
     "indent": 0,
     "max-len": "off",
     "linebreak-style": 0,
+    "no-multiple-empty-lines": 0,
+    "func-names": 0,
     "prettier/prettier": [
       "error",
       {
