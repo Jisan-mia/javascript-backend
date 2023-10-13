@@ -2,7 +2,8 @@
 const mathLibrary = require('./lib/math');
 const quoteLibrary = require('./lib/quote');
 
-const app = {
+const app = {};
+app.config = {
     timeBetweenQuotes: 2000,
 };
 
